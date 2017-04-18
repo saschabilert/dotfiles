@@ -1,0 +1,22 @@
+# My global .gitignore file
+
+# compiled source #
+###################
+*.com
+
+# Packages #
+############
+*.dmg
+*.zip
+
+# Logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+.localized
+.DS_Store
+.DS_Store?
+.Trashes
+Thumbs.db
